@@ -1,4 +1,4 @@
-package simplilearnExamples;
+ackage simplilearnExamples;
 
 public class Example2 {
 
